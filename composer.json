@@ -2,6 +2,7 @@
     "name": "fontis/bpay-ref-generator",
     "description": "Generate BPAY customer reference numbers",
     "type": "library",
+    "version": "1.0.1-dev-dmh",
     "license": "OSL-3.0",
     "require": {
         "php": ">=7.0"
